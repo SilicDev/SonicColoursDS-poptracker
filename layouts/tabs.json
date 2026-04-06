@@ -1,0 +1,138 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Main",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Planet Map"
+                    ]
+                }
+            },
+            {
+                "title": "Tropical Resort",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tropical Resort"
+                    ]
+                }
+            },
+            {
+                "title": "Sweet Mountain",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sweet Mountain"
+                    ]
+                }
+            },
+            {
+                "title": "Starlight Carnival",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Starlight Carnival"
+                    ]
+                }
+            },
+            {
+                "title": "Planet Wisp",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Planet Wisp"
+                    ]
+                }
+            },
+            {
+                "title": "Aquarium Park",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Aquarium Park"
+                    ]
+                }
+            },
+            {
+                "title": "Asteroid Coaster",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Asteroid Coaster"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Main",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Planet Map"
+                    ]
+                }
+            },
+            {
+                "title": "Tropical Resort",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tropical Resort"
+                    ]
+                }
+            },
+            {
+                "title": "Sweet Mountain",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sweet Mountain"
+                    ]
+                }
+            },
+            {
+                "title": "Starlight Carnival",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Starlight Carnival"
+                    ]
+                }
+            },
+            {
+                "title": "Planet Wisp",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Planet Wisp"
+                    ]
+                }
+            },
+            {
+                "title": "Aquarium Park",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Aquarium Park"
+                    ]
+                }
+            },
+            {
+                "title": "Asteroid Coaster",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Asteroid Coaster"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,204 @@
+[
+    {
+        "name": "Planet Map",
+        "children": [
+            {
+                "name": "Tropical Resort",
+                "sections": [
+                    {
+                        "name": "Can Access",
+                        "access_rules": [
+                            "tropicalresortshuttle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 128,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Sweet Mountain",
+                "sections": [
+                    {
+                        "name": "Can Access",
+                        "access_rules": [
+                            "sweetmountainshuttle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 46,
+                        "y": 254
+                    }
+                ]
+            },
+            {
+                "name": "Starlight Carnival",
+                "sections": [
+                    {
+                        "name": "Can Access",
+                        "access_rules": [
+                            "starlightcarnivalshuttle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 46,
+                        "y": 196
+                    }
+                ]
+            },
+            {
+                "name": "Planet Wisp",
+                "sections": [
+                    {
+                        "name": "Can Access",
+                        "access_rules": [
+                            "planetwispshuttle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 128,
+                        "y": 170
+                    }
+                ]
+            },
+            {
+                "name": "Aquarium Park",
+                "sections": [
+                    {
+                        "name": "Can Access",
+                        "access_rules": [
+                            "aquariumparkshuttle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 202,
+                        "y": 196
+                    }
+                ]
+            },
+            {
+                "name": "Asteroid Coaster",
+                "sections": [
+                    {
+                        "name": "Can Access",
+                        "access_rules": [
+                            "asteroidcoastershuttle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 202,
+                        "y": 254
+                    }
+                ]
+            },
+            {
+                "name": "Terminal Velocity",
+                "sections": [
+                    {
+                        "name": "Chase",
+                        "access_rules": [
+                            "spaceelevatoraccesscode"
+                        ]
+                    },
+                    {
+                        "name": "Nega-Wisp Armor",
+                        "access_rules": [
+                            "spaceelevatoraccesscode,whitewisptranslator,redwisptranslator,orangewisptranslator,yellowwisptranslator,cyanwisptranslator,violetwipstranslator"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 128,
+                        "y": 324
+                    }
+                ]
+            },
+            {
+                "name": "Nega-Mother Wisp",
+                "sections": [
+                    {
+                        "name": "Nega-Mother Wisp",
+                        "access_rules": [
+                            "@Terminal Velocity/Nega-Wisp Armor,greenchaosemerald,yellowchaosemerald,whitechaosemerald,redchaosemerald,purplechaosemerald,bluechaosemerald,cyanchaosemerald"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 128,
+                        "y": 84
+                    }
+                ]
+            },
+            {
+                "name": "Game Land",
+                "sections": [
+                    {
+                        "name": "Special Stage 1",
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Special Stage 2",
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Special Stage 3",
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Special Stage 4",
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Special Stage 5",
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Special Stage 6",
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Special Stage 7",
+                        "access_rules": [
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Planet Map",
+                        "x": 80,
+                        "y": 300
+                    }
+                ]
+            }
+        ]
+    }
+]

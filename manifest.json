@@ -1,0 +1,23 @@
+{
+    "name": "Sonic Colours (DS) Archipelago",
+    "game_name": "Sonic Colours (DS)",
+    "package_version": "0.1.0",
+    "package_uid": "scds-silicdev",
+    "author": "SilicDev",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0",
+    "versions_url": "https://raw.githubusercontent.com/SilicDev/SonicColoursDS-poptracker/main/versions.json"
+}

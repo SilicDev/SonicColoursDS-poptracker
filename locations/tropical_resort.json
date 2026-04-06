@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Tropical Resort",
+        "access_rules": [
+            "@Planet Map/Tropical Resort/Can Access"
+        ],
+        "children": [
+            {
+                "name": "Movement Tutorial",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "x": 202,
+                        "y": 356
+                    }
+                ]
+            },
+            {
+                "name": "White Boost Tutorial",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "x": 472,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Tropical Resort Act 1",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Red Star Ring 1",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 2",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 3",
+                        "access_rules": [
+                            "redbursttranslator"
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 4",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 5",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "x": 352,
+                        "y": 306
+                    }
+                ]
+            },
+            {
+                "name": "Tropical Resort Act 2",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Red Star Ring 1",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 2",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 3",
+                        "access_rules": [
+                            "whitewipstranslator",
+                            "redbursttranslator"
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 4",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 5",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "x": 170,
+                        "y": 224
+                    }
+                ]
+            },
+            {
+                "name": "Tropical Resort Boss (Globotron)",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "x": 274,
+                        "y": 164
+                    }
+                ]
+            },
+            {
+                "name": "Tropical Resort Mission 1",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ]
+                    },
+                    {
+                        "name": "Red Star Ring 1",
+                        "access_rules": [
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 2",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "shape": "diamond",
+                        "x": 414,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Tropical Resort Mission 2",
+                "location_shape": "diamond",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ]
+                    },
+                    {
+                        "name": "Red Star Ring 1",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 2",
+                        "access_rules": [
+                            ""
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "shape": "diamond",
+                        "x": 44,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "Tropical Resort Mission 3",
+                "sections": [
+                    {
+                        "name": "Stage",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ]
+                    },
+                    {
+                        "name": "Red Star Ring 1",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    },
+                    {
+                        "name": "Red Star Ring 2",
+                        "access_rules": [
+                            "whitewipstranslator"
+                        ],
+                        "visibility_rules": [ "redringsanity" ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tropical Resort",
+                        "shape": "diamond",
+                        "x": 62,
+                        "y": 172
+                    }
+                ]
+            }
+        ]
+    }
+]

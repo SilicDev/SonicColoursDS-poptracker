@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Red Star Ring Sanity",
+        "type": "toggle",
+        "img": "images/modifiers/RedStarRing.png",
+        "codes": "redringsanity"
+    }
+]

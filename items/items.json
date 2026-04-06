@@ -1,0 +1,169 @@
+[
+    {
+        "name": "White Wisp Translator",
+        "type": "toggle",
+        "img": "images/items/Boost.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whitewisptranslator"
+    },
+    {
+        "name": "Red Wisp Translator",
+        "type": "toggle",
+        "img": "images/items/Burst.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redwisptranslator"
+    },
+    {
+        "name": "Orange Wisp Translator",
+        "type": "toggle",
+        "img": "images/items/Rocket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orangewisptranslator"
+    },
+    {
+        "name": "Yellow Wisp Translator",
+        "type": "toggle",
+        "img": "images/items/Drill.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowwisptranslator"
+    },
+    {
+        "name": "Cyan Wisp Translator",
+        "type": "toggle",
+        "img": "images/items/Laser.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cyanwisptranslator"
+    },
+    {
+        "name": "Violet Wisp Translator",
+        "type": "toggle",
+        "img": "images/items/Void.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "violetwisptranslator"
+    },
+    {
+        "name": "Tropical Resort Shuttle",
+        "type": "toggle",
+        "img": "images/items/tropicalresortshuttle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tropicalresortshuttle"
+    },
+    {
+        "name": "Sweet Mountain Shuttle",
+        "type": "toggle",
+        "img": "images/items/sweetmountainshuttle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sweetmountainshuttle"
+    },
+    {
+        "name": "Starlight Carnival Shuttle",
+        "type": "toggle",
+        "img": "images/items/starlightcarnivalshuttle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "starlightcarnivalshuttle"
+    },
+    {
+        "name": "Planet Wisp Shuttle",
+        "type": "toggle",
+        "img": "images/items/planetwispshuttle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "planetwispshuttle"
+    },
+    {
+        "name": "Aquarium Park Shuttle",
+        "type": "toggle",
+        "img": "images/items/aquariumparkshuttle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aquariumparkshuttle"
+    },
+    {
+        "name": "Asteroid Coaster Shuttle",
+        "type": "toggle",
+        "img": "images/items/asteroidcoastershuttle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "asteroidcoastershuttle"
+    },
+    {
+        "name": "Space Elevator Access Code",
+        "type": "toggle",
+        "img": "images/items/spaceelevatoraccesscode.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spaceelevatoraccesscode"
+    },
+    {
+        "name": "Green Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldGreen.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greenchaosemerald"
+    },
+    {
+        "name": "Yellow Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldYellow.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowchaosemerald"
+    },
+    {
+        "name": "White Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldWhite.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whitechaosemerald"
+    },
+    {
+        "name": "Red Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldRed.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redchaosemerald"
+    },
+    {
+        "name": "Purple Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldPurple.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purplechaosemerald"
+    },
+    {
+        "name": "Blue Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldBlue.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluechaosemerald"
+    },
+    {
+        "name": "Cyan Chaos Emerald",
+        "type": "toggle",
+        "img": "images/items/EmeraldCyan.png",
+        "disabled_img": "images/items/EmeraldNone.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cyanchaosemerald"
+    }
+]

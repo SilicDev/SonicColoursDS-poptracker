@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Planet Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/PlanetMap.png"
+    },
+    {
+        "name": "Tropical Resort",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/TropicalResortMap.png"
+    },
+    {
+        "name": "Sweet Mountain",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/SweetMountainMap.png"
+    },
+    {
+        "name": "Starlight Carnival",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/StarlightCarnivalMap.png"
+    },
+    {
+        "name": "Planet Wisp",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/PlanetWispMap.png"
+    },
+    {
+        "name": "Aquarium Park",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/AquariumParkMap.png"
+    },
+    {
+        "name": "Asteroid Coaster",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/AsteroidCoasterMap.png"
+    }
+]
