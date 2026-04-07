@@ -32,6 +32,10 @@ if PopVersion and PopVersion >= "0.26.0" then
 end
 
 function OnFrameHandler()
+    if SLOT_DATA['goal'] then
+        local goal = Tracker:FindObjectForCode("goal")
+        goal.CurrentStage = (SLOT_DATA['goal'])
+    end
     if SLOT_DATA['redringsanity'] then
         local redringsanity = Tracker:FindObjectForCode("redringsanity")
         redringsanity.Active = (SLOT_DATA['redringsanity'])

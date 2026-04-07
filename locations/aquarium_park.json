@@ -1,47 +1,30 @@
 [
     {
-        "name": "Tropical Resort",
+        "name": "Aquarium Park",
         "access_rules": [
-            "@Planet Map/Tropical Resort/Can Access"
+            "@Planet Map/Aquarium Park/Can Access"
         ],
         "children": [
             {
-                "name": "Movement Tutorial",
+                "name": "Cyan Laser Tutorial",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
+                            "cyanwisptranslator"
                         ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
-                        "x": 202,
-                        "y": 356
-                    }
-                ]
-            },
-            {
-                "name": "White Boost Tutorial",
-                "sections": [
-                    {
-                        "name": "Stage",
-                        "access_rules": [
-                            "whitewisptranslator"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "x": 472,
                         "y": 340
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Act 1",
+                "name": "Aquarium Park Act 1",
                 "sections": [
                     {
                         "name": "Stage",
@@ -59,14 +42,15 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "yellowwisptranslator",
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            "redwisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -80,32 +64,34 @@
                     {
                         "name": "Red Star Ring 5",
                         "access_rules": [
-                            ""
+                            "whitewisptranslator",
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "x": 352,
                         "y": 306
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Act 2",
+                "name": "Aquarium Park Act 2",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            ""
+                            "cyanwisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "whitewisptranslator",
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -119,63 +105,66 @@
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            "whitewisptranslator",
-                            "redwisptranslator"
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 4",
                         "access_rules": [
-                            ""
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 5",
                         "access_rules": [
-                            ""
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "x": 170,
                         "y": 224
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Boss (Globotron)",
+                "name": "Aquarium Park Boss (Admiral Jelly)",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
+                            ""
                         ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "x": 274,
                         "y": 164
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Mission 1",
+                "name": "Aquarium Park Mission 1",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "whitewisptranslator",
+                            "yellowwisptranslator",
+                            "cyanwisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -189,7 +178,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "shape": "diamond",
                         "x": 414,
                         "y": 232
@@ -197,33 +186,33 @@
                 ]
             },
             {
-                "name": "Tropical Resort Mission 2",
+                "name": "Aquarium Park Mission 2",
                 "location_shape": "diamond",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "cyanwisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            ""
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "shape": "diamond",
                         "x": 44,
                         "y": 292
@@ -231,32 +220,32 @@
                 ]
             },
             {
-                "name": "Tropical Resort Mission 3",
+                "name": "Aquarium Park Mission 3",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "whitewisptranslator,cyanwisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            "whitewisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Aquarium Park",
                         "shape": "diamond",
                         "x": 62,
                         "y": 172

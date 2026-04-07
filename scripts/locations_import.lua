@@ -1,2 +1,7 @@
 Tracker:AddLocations("locations/main.json")
 Tracker:AddLocations("locations/tropical_resort.json")
+Tracker:AddLocations("locations/sweet_mountain.json")
+Tracker:AddLocations("locations/starlight_carnival.json")
+Tracker:AddLocations("locations/planet_wisp.json")
+Tracker:AddLocations("locations/aquarium_park.json")
+Tracker:AddLocations("locations/asteroid_coaster.json")

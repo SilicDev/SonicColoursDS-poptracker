@@ -1,52 +1,35 @@
 [
     {
-        "name": "Tropical Resort",
+        "name": "Starlight Carnival",
         "access_rules": [
-            "@Planet Map/Tropical Resort/Can Access"
+            "@Planet Map/Starlight Carnival/Can Access"
         ],
         "children": [
             {
-                "name": "Movement Tutorial",
+                "name": "Orange Rocket Tutorial",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
+                            "orangewisptranslator"
                         ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
-                        "x": 202,
-                        "y": 356
-                    }
-                ]
-            },
-            {
-                "name": "White Boost Tutorial",
-                "sections": [
-                    {
-                        "name": "Stage",
-                        "access_rules": [
-                            "whitewisptranslator"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "x": 472,
                         "y": 340
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Act 1",
+                "name": "Starlight Carnival Act 1",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ]
                     },
                     {
@@ -66,7 +49,7 @@
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            "redwisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -80,47 +63,46 @@
                     {
                         "name": "Red Star Ring 5",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "x": 352,
                         "y": 306
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Act 2",
+                "name": "Starlight Carnival Act 2",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            "whitewisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            "whitewisptranslator",
-                            "redwisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -134,48 +116,50 @@
                     {
                         "name": "Red Star Ring 5",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "x": 170,
                         "y": 224
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Boss (Globotron)",
+                "name": "Starlight Carnival Boss (Frigate Orcan)",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
+                            ""
                         ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "x": 274,
                         "y": 164
                     }
                 ]
             },
             {
-                "name": "Tropical Resort Mission 1",
+                "name": "Starlight Carnival Mission 1",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "[whitewisptranslator],[orangewisptranslator]"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -189,7 +173,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "shape": "diamond",
                         "x": 414,
                         "y": 232
@@ -197,33 +181,35 @@
                 ]
             },
             {
-                "name": "Tropical Resort Mission 2",
+                "name": "Starlight Carnival Mission 2",
                 "location_shape": "diamond",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "orangewisptranslator",
+                            "whitewisptranslator,cyanwisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator",
+                            "whitewisptranslator,cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "shape": "diamond",
                         "x": 44,
                         "y": 292
@@ -231,32 +217,32 @@
                 ]
             },
             {
-                "name": "Tropical Resort Mission 3",
+                "name": "Starlight Carnival Mission 3",
                 "sections": [
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "whitewisptranslator,orangewisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            "whitewisptranslator"
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            "whitewisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tropical Resort",
+                        "map": "Starlight Carnival",
                         "shape": "diamond",
                         "x": 62,
                         "y": 172
