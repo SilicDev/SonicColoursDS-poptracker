@@ -221,20 +221,22 @@
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "whitewisptranslator,cyanwisptranslator,violetwisptranslator"
+                            "whitewisptranslator,violetwisptranslator",
+                            "cyanwisptranslator,violetwisptranslator"
                         ]
                     },
                     {
                         "name": "Red Star Ring 1",
                         "access_rules": [
-                            ""
+                            "[whitewisptranslator],violetwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "whitewisptranslator,violetwisptranslator",
+                            "cyanwisptranslator,violetwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }

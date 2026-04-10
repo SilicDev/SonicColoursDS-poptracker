@@ -98,7 +98,7 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "yellowwisptranslator,cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },

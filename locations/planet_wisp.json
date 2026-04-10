@@ -42,7 +42,7 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "yellowwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -56,7 +56,7 @@
                     {
                         "name": "Red Star Ring 4",
                         "access_rules": [
-                            ""
+                            "yellowwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },

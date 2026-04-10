@@ -42,21 +42,22 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            ""
+                            "[orangewisptranslator],cyanwisptranslator",
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 4",
                         "access_rules": [
-                            ""
+                            "[orangewisptranslator],cyanwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -95,6 +96,7 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
+                            "[orangewisptranslator],cyanwisptranslator",
                             "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
@@ -102,14 +104,16 @@
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            ""
+                            "[orangewisptranslator],cyanwisptranslator",
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 4",
                         "access_rules": [
-                            ""
+                            "[orangewisptranslator],cyanwisptranslator",
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
@@ -153,7 +157,7 @@
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "[whitewisptranslator],[orangewisptranslator]"
+                            "[whitewisptranslator,orangewisptranslator]"
                         ]
                     },
                     {
@@ -166,7 +170,7 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }
@@ -235,7 +239,7 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "orangewisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     }

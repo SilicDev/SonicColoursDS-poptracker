@@ -158,36 +158,49 @@
                     {
                         "name": "Special Stage 1",
                         "access_rules": [
+                            "@Tropical Resort Act 1/Stage",
+                            "@Tropical Resort Act 2/Stage"
                         ]
                     },
                     {
                         "name": "Special Stage 2",
                         "access_rules": [
+                            "@Sweet Mountain Act 1/Stage",
+                            "@Sweet Mountain Act 2/Stage"
                         ]
                     },
                     {
                         "name": "Special Stage 3",
                         "access_rules": [
+                            "@Starlight Carnival Act 1/Stage",
+                            "@Starlight Carnival Act 2/Stage"
                         ]
                     },
                     {
                         "name": "Special Stage 4",
                         "access_rules": [
+                            "@Planet Wisp Act 1/Stage",
+                            "@Planet Wisp Act 2/Stage"
                         ]
                     },
                     {
                         "name": "Special Stage 5",
                         "access_rules": [
+                            "@Aquarium Park Act 1/Stage",
+                            "@Aquarium Park Act 2/Stage"
                         ]
                     },
                     {
                         "name": "Special Stage 6",
                         "access_rules": [
+                            "@Asteroid Coaster Act 1/Stage",
+                            "@Asteroid Coaster Act 2/Stage"
                         ]
                     },
                     {
                         "name": "Special Stage 7",
                         "access_rules": [
+                            ""
                         ]
                     }
                 ],
