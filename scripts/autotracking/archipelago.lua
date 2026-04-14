@@ -1,6 +1,7 @@
 
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
+require("scripts/autotracking/tab_mapping")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -249,6 +250,7 @@ function onClear(slot_data)
         end
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
+        MAP_ID = 
         Archipelago:SetNotify({HINTS_ID})
         Archipelago:Get({HINTS_ID})
     end
@@ -413,6 +415,23 @@ function UpdateHints(locationID, status) -->
     end
 end
 
+function onBounce(json)
+    local data = json["data"]
+    if data then
+        if data["type"] == "MapUpdate" then
+            updateMap(data["mapId"])
+        end
+    end
+end
+
+function updateMap(map_id)
+    local tabs = TAB_MAPPING[map_id]
+    if tabs then
+        for _, tab in ipairs(tabs) do
+            Tracker:UiHint("ActivateTab", tab)
+        end 
+    end
+end
 
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)
 -- Archipelago:AddClearHandler("clear handler", onClearHandler)

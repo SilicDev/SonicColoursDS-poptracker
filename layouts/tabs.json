@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Main",
+                "title": "Planet Map",
                 "content": {
                     "type": "map",
                     "maps": [
