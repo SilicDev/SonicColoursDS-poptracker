@@ -35,8 +35,8 @@
                 "map_locations": [
                     {
                         "map": "Tropical Resort",
-                        "x": 472,
-                        "y": 340
+                        "x": 464,
+                        "y": 350
                     }
                 ]
             },
@@ -88,8 +88,8 @@
                 "map_locations": [
                     {
                         "map": "Tropical Resort",
-                        "x": 352,
-                        "y": 306
+                        "x": 350,
+                        "y": 310
                     }
                 ]
             },
@@ -193,7 +193,7 @@
                         "map": "Tropical Resort",
                         "shape": "diamond",
                         "x": 414,
-                        "y": 232
+                        "y": 236
                     }
                 ]
             },
@@ -260,7 +260,7 @@
                         "map": "Tropical Resort",
                         "shape": "diamond",
                         "x": 62,
-                        "y": 172
+                        "y": 176
                     }
                 ]
             }

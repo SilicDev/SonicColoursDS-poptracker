@@ -18,8 +18,8 @@
                 "map_locations": [
                     {
                         "map": "Sweet Mountain",
-                        "x": 472,
-                        "y": 340
+                        "x": 464,
+                        "y": 350
                     }
                 ]
             },
@@ -73,7 +73,7 @@
                 "map_locations": [
                     {
                         "map": "Sweet Mountain",
-                        "x": 352,
+                        "x": 224,
                         "y": 306
                     }
                 ]
@@ -126,8 +126,8 @@
                 "map_locations": [
                     {
                         "map": "Sweet Mountain",
-                        "x": 170,
-                        "y": 224
+                        "x": 370,
+                        "y": 266
                     }
                 ]
             },
@@ -144,8 +144,8 @@
                 "map_locations": [
                     {
                         "map": "Sweet Mountain",
-                        "x": 274,
-                        "y": 164
+                        "x": 268,
+                        "y": 142
                     }
                 ]
             },
@@ -177,8 +177,8 @@
                     {
                         "map": "Sweet Mountain",
                         "shape": "diamond",
-                        "x": 414,
-                        "y": 232
+                        "x": 78,
+                        "y": 194
                     }
                 ]
             },
@@ -211,8 +211,8 @@
                     {
                         "map": "Sweet Mountain",
                         "shape": "diamond",
-                        "x": 44,
-                        "y": 292
+                        "x": 458,
+                        "y": 110
                     }
                 ]
             },
@@ -244,8 +244,8 @@
                     {
                         "map": "Sweet Mountain",
                         "shape": "diamond",
-                        "x": 62,
-                        "y": 172
+                        "x": 132,
+                        "y": 94
                     }
                 ]
             }

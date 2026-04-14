@@ -18,8 +18,8 @@
                 "map_locations": [
                     {
                         "map": "Starlight Carnival",
-                        "x": 472,
-                        "y": 340
+                        "x": 464,
+                        "y": 350
                     }
                 ]
             },
@@ -72,8 +72,8 @@
                 "map_locations": [
                     {
                         "map": "Starlight Carnival",
-                        "x": 352,
-                        "y": 306
+                        "x": 406,
+                        "y": 336
                     }
                 ]
             },
@@ -128,8 +128,8 @@
                 "map_locations": [
                     {
                         "map": "Starlight Carnival",
-                        "x": 170,
-                        "y": 224
+                        "x": 314,
+                        "y": 210
                     }
                 ]
             },
@@ -146,8 +146,8 @@
                 "map_locations": [
                     {
                         "map": "Starlight Carnival",
-                        "x": 274,
-                        "y": 164
+                        "x": 224,
+                        "y": 78
                     }
                 ]
             },
@@ -179,8 +179,8 @@
                     {
                         "map": "Starlight Carnival",
                         "shape": "diamond",
-                        "x": 414,
-                        "y": 232
+                        "x": 250,
+                        "y": 352
                     }
                 ]
             },
@@ -215,8 +215,8 @@
                     {
                         "map": "Starlight Carnival",
                         "shape": "diamond",
-                        "x": 44,
-                        "y": 292
+                        "x": 456,
+                        "y": 182
                     }
                 ]
             },
@@ -248,8 +248,8 @@
                     {
                         "map": "Starlight Carnival",
                         "shape": "diamond",
-                        "x": 62,
-                        "y": 172
+                        "x": 86,
+                        "y": 228
                     }
                 ]
             }

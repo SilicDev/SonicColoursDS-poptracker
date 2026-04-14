@@ -18,8 +18,8 @@
                 "map_locations": [
                     {
                         "map": "Planet Wisp",
-                        "x": 472,
-                        "y": 340
+                        "x": 464,
+                        "y": 350
                     }
                 ]
             },
@@ -71,8 +71,8 @@
                 "map_locations": [
                     {
                         "map": "Planet Wisp",
-                        "x": 352,
-                        "y": 306
+                        "x": 264,
+                        "y": 344
                     }
                 ]
             },
@@ -124,8 +124,8 @@
                 "map_locations": [
                     {
                         "map": "Planet Wisp",
-                        "x": 170,
-                        "y": 224
+                        "x": 126,
+                        "y": 254
                     }
                 ]
             },
@@ -142,8 +142,8 @@
                 "map_locations": [
                     {
                         "map": "Planet Wisp",
-                        "x": 274,
-                        "y": 164
+                        "x": 414,
+                        "y": 196
                     }
                 ]
             },
@@ -175,8 +175,8 @@
                     {
                         "map": "Planet Wisp",
                         "shape": "diamond",
-                        "x": 414,
-                        "y": 232
+                        "x": 412,
+                        "y": 302
                     }
                 ]
             },
@@ -209,8 +209,8 @@
                     {
                         "map": "Planet Wisp",
                         "shape": "diamond",
-                        "x": 44,
-                        "y": 292
+                        "x": 132,
+                        "y": 158
                     }
                 ]
             },
@@ -242,8 +242,8 @@
                     {
                         "map": "Planet Wisp",
                         "shape": "diamond",
-                        "x": 62,
-                        "y": 172
+                        "x": 256,
+                        "y": 100
                     }
                 ]
             }

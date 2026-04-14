@@ -18,8 +18,8 @@
                 "map_locations": [
                     {
                         "map": "Asteroid Coaster",
-                        "x": 472,
-                        "y": 340
+                        "x": 464,
+                        "y": 350
                     }
                 ]
             },
@@ -72,7 +72,7 @@
                 "map_locations": [
                     {
                         "map": "Asteroid Coaster",
-                        "x": 352,
+                        "x": 338,
                         "y": 306
                     }
                 ]
@@ -125,8 +125,8 @@
                 "map_locations": [
                     {
                         "map": "Asteroid Coaster",
-                        "x": 170,
-                        "y": 224
+                        "x": 130,
+                        "y": 190
                     }
                 ]
             },
@@ -143,8 +143,8 @@
                 "map_locations": [
                     {
                         "map": "Asteroid Coaster",
-                        "x": 274,
-                        "y": 164
+                        "x": 392,
+                        "y": 130
                     }
                 ]
             },
@@ -176,8 +176,8 @@
                     {
                         "map": "Asteroid Coaster",
                         "shape": "diamond",
-                        "x": 414,
-                        "y": 232
+                        "x": 460,
+                        "y": 282
                     }
                 ]
             },
@@ -210,8 +210,8 @@
                     {
                         "map": "Asteroid Coaster",
                         "shape": "diamond",
-                        "x": 44,
-                        "y": 292
+                        "x": 102,
+                        "y": 318
                     }
                 ]
             },
@@ -245,8 +245,8 @@
                     {
                         "map": "Asteroid Coaster",
                         "shape": "diamond",
-                        "x": 62,
-                        "y": 172
+                        "x": 244,
+                        "y": 74
                     }
                 ]
             }
