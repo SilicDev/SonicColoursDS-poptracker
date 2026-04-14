@@ -141,7 +141,8 @@
                         "name": "Nega-Mother Wisp",
                         "access_rules": [
                             "@Terminal Velocity/Nega-Wisp Armor,greenchaosemerald,yellowchaosemerald,whitechaosemerald,redchaosemerald,purplechaosemerald,bluechaosemerald,cyanchaosemerald"
-                        ]
+                        ],
+                        "visibility_rules": [ "goal_1" ]
                     }
                 ],
                 "map_locations": [

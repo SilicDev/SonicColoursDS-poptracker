@@ -59,14 +59,14 @@
                     {
                         "name": "Red Star Ring 2",
                         "access_rules": [
-                            ""
+                            "redwisptranslator"
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
                     {
                         "name": "Red Star Ring 3",
                         "access_rules": [
-                            "redwisptranslator"
+                            ""
                         ],
                         "visibility_rules": [ "redringsanity" ]
                     },
