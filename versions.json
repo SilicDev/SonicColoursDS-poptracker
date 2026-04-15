@@ -2,7 +2,10 @@
     "versions": [
         {
             "package_version": "0.1.0",
+            "download_url": "https://github.com/SilicDev/SonicColoursDS-poptracker/archive/refs/tags/v0.1.0.zip",
+            "sha256": "4c9773a612f9e8a54f0c6f2bd5304fd0dffb2a3a58b7ec9dce8280b6ec692039",
             "changelog": [
+                "Initial release"
             ]
         }
     ]
