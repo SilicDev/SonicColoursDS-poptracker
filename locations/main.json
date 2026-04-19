@@ -122,7 +122,7 @@
                     {
                         "name": "Nega-Wisp Armor",
                         "access_rules": [
-                            "spaceelevatoraccesscode,whitewisptranslator,redwisptranslator,orangewisptranslator,yellowwisptranslator,cyanwisptranslator,violetwipstranslator"
+                            "spaceelevatoraccesscode,whitewisptranslator,redwisptranslator,orangewisptranslator,yellowwisptranslator,cyanwisptranslator,violetwisptranslator"
                         ]
                     }
                 ],

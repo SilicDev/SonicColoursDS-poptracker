@@ -157,7 +157,7 @@
                     {
                         "name": "Stage",
                         "access_rules": [
-                            "[whitewisptranslator,orangewisptranslator]"
+                            "[whitewisptranslator],[orangewisptranslator]"
                         ]
                     },
                     {
